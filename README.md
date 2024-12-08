@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA and Web dev**
 
-- 📫 How to reach me **jawairiahammad180@gmail.com**
+- 📫 How to reach me **jawairiahammad18@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
