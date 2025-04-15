@@ -3,8 +3,6 @@
 <h3 align="center">•Proficient in multiple programming languages and frameworks, with a passion for continuous learning and adapting to new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="[[https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--717268678168057748/](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-4706460855862906629&psig=AOvVaw038V_JSgM6lEl7nUMAtU4_&ust=1718006605088000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCx6L2HzoYDFQAAAAAdAAAAABAE)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jawairiah&label=Profile%20views&color=0e75b6&style=flat" alt="jawairiah](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcodeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l&psig=AOvVaw038V_JSgM6lEl7nUMAtU4_&ust=1718006605088000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCx6L2HzoYDFQAAAAAdAAAAABAK)" /> </p>
-
 
 - 🌱 I’m currently learning **DSA and Web dev**
 
